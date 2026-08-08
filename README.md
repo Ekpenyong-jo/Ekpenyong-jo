@@ -1,10 +1,10 @@
 # 👋HI, I'm Ekpenyong Peace Inemesit
 
-###🔐 Aspiring Cybersecurity Professional | Security Enthusiast | Lifelong Learner 
+### 🔐 Aspiring Cybersecurity Professional | Security Enthusiast | Lifelong Learner 
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, network security, threat detection, vulnerability assessment, and continuous learning.
 
-##👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm an aspiring cybersecurity professional building practical skill through hands-on projects, cybersecurity labs, and continuous learning.
 
