@@ -85,7 +85,7 @@ src="https://img.shields.io/badge/Incident%20Response-F57C00?style=for-the-badge
 
 ## 🚀 Featured Projects
 
-### 🐍 Python Network Sniffer
+### 🐍 [Python Network Sniffer](https://github.com/Ekpenyong-jo/Cybersecurity_Project/tree/main/Task1_Basic_Network_Sniffer)
 Developed a Python-based network sniffer to capture and analyze network packets.
 
 **Skills demonstrated:**
