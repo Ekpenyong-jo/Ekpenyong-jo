@@ -82,19 +82,57 @@ src="https://img.shields.io/badge/Security%20Monitoring-00897B?style=for-the-bad
 src="https://img.shields.io/badge/Incident%20Response-F57C00?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Incident Response"/>
 </p>
 
-## 🚀 Projects
+
+## 🚀 Featured Projects
 
 ### 🐍 Python Network Sniffer
-A python-based network packet sniffer developed to capture and analyze network traffic.
+Developed a Python-based network sniffer to capture and analyze network packets.
+
+**Skills demonstrated:**
+ - Network traffic analysis
+ - packet capture
+ - Protocol identification
+ - Python programming
+ - Network security fundamentals
+
+---
 
 ### 🛡 Wazuh Security Monitoring
-Hands-on experience configuring and working with wazuh for security monitoring and event analysis.
+Configured Wazuh in a practical lab environment to explore security monitoring and event analysis.
+
+**Skills demonstrated:**
+ - SIEM concept
+ - Security event monitoring
+ - Log analysis
+ - Agent configuration
+ - Threat detection
+
+ ---
 
 ### 🚨 Suricata IDS
-Configured and tested Suricata for network intrusion detection and analyzed security events and logs.
+Configured and tested Suricata to monitor network traffic and detect suspicious activity
+
+**Skills demonstrated:**
+ - IDS configuration
+ - Network monitoring
+ - Rule management
+ - Alert analysis
+ - EVE JSON log analysis
+
+ ---   
 
 ### 🔎 Vulnerability Assessment
 Performed vulnerability assessment exercises using tools such as Nessus and Nmap in controlled lab environments.
+
+**Skills demonstrated:**
+ - Network scanning
+ - Port enumeraton
+ - Vulnerability identification
+ - Security assessment
+ - Technical reporting
+
+
+   
 
 ## 🎯 Goals
 
